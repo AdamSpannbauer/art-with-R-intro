@@ -14,7 +14,7 @@ output:
 
 # Goals of document
 
-Note: this is essentially a solution file! If you'd like to work through the document without all the code provided download [this .Rmd file]() (much much much better for programming practice!!!)
+Note: this is essentially a solution file! If you'd like to work through the document without all the code provided download [this .Rmd file](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/AdamSpannbauer/art-with-R-intro/blob/master/art_with_r.Rmd) (**link warning!** clicking the link will auto download the .Rmd).  Using the prompts will be much much much better for programming practice!!!
 
 * See how you can make some interesting patterns with relatively low effort
 * Practice programming with a visual payoff
